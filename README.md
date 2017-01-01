@@ -28,5 +28,6 @@ Load up keyboard layout and build the keyboard layout package.
 
 ## Credits
 
-Initial Croatian-US keyboard by Tonimir Kisasondi 
+Initial Croatian-US keyboard by Tonimir Kisasondi.
+
 Changes to be as close as possible as original hrus by Vlatko Kosturjak
