@@ -16,9 +16,9 @@ Keyboard layout for different operating systems:
 Copy Croatian-US.keylayout and Croatian-US.icns to following directory:
 /Library/Keyboard\ Layouts/
 
-Go to System Preferences -> Keyboard -> Iput Sources and select Croatian US
+Go to System Preferences -> Keyboard -> Input Sources and select Croatian US
 
-or if you have language 
+or if you have list of languages, you need to go to *Others* in language list and select Croatian US. 
 
 ## Building
 
